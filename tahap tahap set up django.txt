@@ -1,0 +1,5 @@
+sebelum set up mysqlnya harus install ini:
+sudo apt install libmysqlclient-dev
+
+lalu install package yang ada requirement txt di drektori ini:
+pip install -r requirements.txt
